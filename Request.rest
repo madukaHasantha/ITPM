@@ -1,0 +1,12 @@
+###
+GET http://localhost:8090/announcement/getAllAnnouncement
+
+###
+GET http://localhost:8090/class/getAllClasses
+
+###
+GET http://localhost:8090/student/getAllStudents
+
+
+###
+GET http://localhost:8090/teacher/getAllTeachers
